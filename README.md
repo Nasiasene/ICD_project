@@ -1,15 +1,15 @@
-# INTRODUÇÃO À CIÊNCIA DE DADOS
-## PROJETO
+# INTRODUCTION TO DATA SCIENCE
+## PROJECT
 - Igó Ferreira Melo Silva (20220155214)
 - Gilherme Barboza de Sousa (20220007418)
 - Davi Nasiasene Amorim (20220056987)
-### Objetivo
-O projeto tem como objetivo utilizar um ou mais conjuntos de dados para realização de análises e para responder perguntas sobre esses dados.
-- [Passos iniciais](https://github.com/IgoSilvaUFPB/projeto_ICD/blob/9276051445e39e67b41439008d7242c1f89459e3/projeto-fase-1.pdf)
-### Conjunto de dados
-- [Descrição dos dados](https://github.com/IgoSilvaUFPB/projeto_ICD/blob/9276051445e39e67b41439008d7242c1f89459e3/descricao_dos%20_dados.md)
-- [Arquivo CSV](https://github.com/IgoSilvaUFPB/projeto_ICD/blob/9276051445e39e67b41439008d7242c1f89459e3/BRAZIL_CITIES.csv)
-### Perguntas que podem ser respondidas utilizando o conjunto de dados.
-1. Qual o ramo de negócios que tem mais impacto no PIB de uma cidade?
-2. A temperatura média de onde vivemos impacta a longevidade?
-3. Qual paralelo dividiria o Brasil de modo que metade da população ficasse ao norte, e a o outra metade ao sul?
+### Goals
+The project aims to use one or more datasets to carry out analyzes and to answer questions about these data.
+- [First steps](https://github.com/IgoSilvaUFPB/projeto_ICD/blob/9276051445e39e67b41439008d7242c1f89459e3/projeto-fase-1.pdf)
+### Dataset
+- [Data description](https://github.com/IgoSilvaUFPB/projeto_ICD/blob/9276051445e39e67b41439008d7242c1f89459e3/descricao_dos%20_dados.md)
+- [CSV Fille](https://github.com/IgoSilvaUFPB/projeto_ICD/blob/9276051445e39e67b41439008d7242c1f89459e3/BRAZIL_CITIES.csv)
+### Questions that can be answered using the dataset.
+1. Which line of business has the most impact on a city's GDP?
+2. Does the average temperature where we live impact longevity?
+3. Which parallel would divide Brazil so that half of the population would be in the north and the other half in the south?
